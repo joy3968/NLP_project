@@ -7,9 +7,9 @@
 ***
 ### 사용 라이브러리
 
-KoNLPy : 자연어처리
-wordcloud : 단어 카운트
-matplotlib : 시각화 (그래프)
-urllib : url 불러오기
-bs4 : 웹 크롤링
-nltk : 자연어처리 패키지
++ KoNLPy : 자연어처리
++ wordcloud : 단어 카운트
++ matplotlib : 시각화 (그래프)
++ urllib : url 불러오기
++ bs4 : 웹 크롤링
++ nltk : 자연어처리 패키지
